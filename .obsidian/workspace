@@ -10,7 +10,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Production Grade Vue.md",
+            "file": "Schedule.md",
             "mode": "preview"
           }
         }
@@ -69,7 +69,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Production Grade Vue.md",
+                "file": "Schedule.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -86,10 +86,15 @@
     "collapsed": true
   },
   "lastOpenFiles": [
-    "Production Grade Vue.md",
+    "Schedule.md",
+    "LICENSE.md",
+    "1 - Chord Tone Arpeggiation.pdf",
+    "6 - Challenge No 2 - Advanced Challenge - Fundamental Block Chord Exercises v2.pdf",
+    "Resources/PDF/Major Modes Cheat Sheet v2.pdf",
+    "Resources/PDF/Jazz Warmup 1.pdf",
+    "Resources/PDF/1 - Week 1 Warmup 1.pdf",
     "Practice Routine.md",
-    "Untitled.md",
-    "README.md",
-    "LICENSE.md"
+    "1 - Week 1 Warmup 1.pdf",
+    "Untitled.md"
   ]
 }
